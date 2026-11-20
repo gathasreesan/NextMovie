@@ -1,0 +1,4 @@
+httpx
+python-dotenv
+supabasehuggingface-hub
+sentence-transformers

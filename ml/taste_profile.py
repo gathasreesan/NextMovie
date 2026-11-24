@@ -16,6 +16,8 @@ supabase = create_client(
 
 ACTION_WEIGHTS: dict[str, float] = {
     "like": 1.0,
+    "seed": 1.0,
+    "onboarding": 1.0,
     "watchlist": 0.6,
     "click": 0.25,
     "dislike": -0.8,
